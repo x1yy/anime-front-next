@@ -1,0 +1,12 @@
+.body-container {
+  background-image: linear-gradient(#ffffff, #e5e5e5 10%, #e5e5e5 90%, #ffffff 100%);
+}
+
+.anime-grid {
+  padding: 4em 8em;
+}
+
+.video-iframe {
+  width: 100% !important;
+  height: 360px !important;
+}
